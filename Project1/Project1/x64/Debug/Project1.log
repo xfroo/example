@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\saggi\source\repos\example\Project1\Main.cpp(17,9): warning C4005: 'PURPLE': macro redefinition
+      C:\Users\saggi\source\repos\example\Project1\Main.cpp(11,9):
+      see previous definition of 'PURPLE'
+  
+  Project1.vcxproj -> C:\Users\saggi\source\repos\example\Project1\x64\Debug\Project1.exe
