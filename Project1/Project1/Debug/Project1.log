@@ -1,2 +1,2 @@
-﻿  Queue.cpp
-  Project1.vcxproj -> C:\Users\saggi\source\repos\example\Project1\Debug\Project1.exe
+﻿  LinkedList.cpp
+C:\Users\saggi\source\repos\example\Project1\LinkedList.cpp(40,18): error C2059: syntax error: ')'
